@@ -1,2 +1,3 @@
-# computer-science
-various topics on the subject
+# Computer Science
+
+### Various topics on the subject
