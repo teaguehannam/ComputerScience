@@ -1,0 +1,7 @@
+
+Index cool websites
+
+    basic-version
+        > make your own custom ID
+        > add a bunch of cool websites into JSON
+            ['title', 'info', 'pic', 'CSS-bg-color']
