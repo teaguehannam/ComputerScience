@@ -1,0 +1,2 @@
+
+Copy and paste an algorithim from Medium to determine a fitness function

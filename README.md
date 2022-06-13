@@ -1,3 +1,4 @@
-# Computer Science
+# Computer Science examples
 
-### Various topics on the subject
+#### Various programs in different sub-topics
+
